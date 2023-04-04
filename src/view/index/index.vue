@@ -1,5 +1,7 @@
 <template>
-  <div class="index"></div>
+  <div class="index">
+    入口
+  </div>
 </template>
 
 <script>
